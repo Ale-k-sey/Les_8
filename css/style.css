@@ -1,7 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&display=swap');
+/* @import url(/Les_8/css/table-tags.css); */
 
-
-
+:root{
+    --backgroundcolor-table-tags: black;
+    --textcolor-table-tags: white;
+    --color-table-tags__tag: #7b7e5a;
+    --color-table-tags__description: #745a0c;
+    --color-table-tags-1199__tag: rgb(180, 180, 41);
+    --color-table-tags-1199__description: rgb(37, 173, 53);
+    --color-table-tags-992__tag: rgb(38, 15, 187);
+    --color-table-tags-992__description: rgb(226, 138, 51);
+}
 
 
 body{
